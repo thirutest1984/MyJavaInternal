@@ -2,4 +2,5 @@ Resources/
 ShapeProject/
 .metadata
 .recommenders
-Assignments\bin
+Assignments/bin/
+ClassAssignments/bin/
