@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<student>
+<student-name>
+<firstname>Kotra</firstname>
+<lastname>Thirumala</lastname>
+</student-name>
+
+<student-address>
+<address>Mindtree</address>
+<city>Bengaluru</city>
+<student-address>
+</student>
